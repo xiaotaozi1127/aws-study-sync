@@ -1,5 +1,5 @@
 var data = {
-  title: 'Study-Sync immutable deployment',
+  title: 'Study-Sync blue/green deployment',
   selected: null,
   question: 'In the Battle of Wolf 359 what prominent Miranda-class ship was destroyed?',
   choices: [
